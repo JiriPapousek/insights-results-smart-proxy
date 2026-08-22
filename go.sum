@@ -743,10 +743,16 @@ github.com/onsi/gomega v1.38.2/go.mod h1:W2MJcYxRGV63b418Ai34Ud0hEdTVXq9NW9+Sx6u
 github.com/op/go-logging v0.0.0-20160315200505-970db520ece7/go.mod h1:HzydrMdWErDVzsI23lYNej1Htcns9BCg93Dk0bBINWk=
 github.com/openshift-online/ocm-api-model/clientapi v0.0.440 h1:BGWikczo8UuSvzEkoTf6q9iodg/pC7ibfvn5bvuD5c0=
 github.com/openshift-online/ocm-api-model/clientapi v0.0.440/go.mod h1:fZwy5HY2URG9nrExvQeXrDU/08TGqZ16f8oymVEN5lo=
+github.com/openshift-online/ocm-api-model/clientapi v0.0.465 h1:ttromCg+1Qbs5fJ8aYyw2hZhc6woLMbjA1HK3zdFAF4=
+github.com/openshift-online/ocm-api-model/clientapi v0.0.465/go.mod h1:fZwy5HY2URG9nrExvQeXrDU/08TGqZ16f8oymVEN5lo=
 github.com/openshift-online/ocm-api-model/model v0.0.440 h1:sfi+fEw3ORh32keJdkE7ZA0g1uCBf457dRg6Qs8yJ6s=
 github.com/openshift-online/ocm-api-model/model v0.0.440/go.mod h1:PQIoq6P8Vlb7goOdRMLK8nJY+B7HH0RTqYAa4kyidTE=
+github.com/openshift-online/ocm-api-model/model v0.0.465 h1:efuoDRUihaFVu0x7zL3yy9kkUeUxtEoYd8eGmFRQHjY=
+github.com/openshift-online/ocm-api-model/model v0.0.465/go.mod h1:PQIoq6P8Vlb7goOdRMLK8nJY+B7HH0RTqYAa4kyidTE=
 github.com/openshift-online/ocm-sdk-go v0.1.486 h1:fhrTGmuLrMkEOoQTOc7hbN7Pmu7n7VatdrMve8qznHM=
 github.com/openshift-online/ocm-sdk-go v0.1.486/go.mod h1:HsSAZFf12U8seRMuWpgehW6saw3ufaPnNN+jPg8BPTs=
+github.com/openshift-online/ocm-sdk-go v0.1.510 h1:oPwgGHPi6LeY+RANXUhJwVvkY4yvddyRqHHThHZZRyM=
+github.com/openshift-online/ocm-sdk-go v0.1.510/go.mod h1:7zNO9AaTPxnqb7/pynAJqKWaxB/GSJePnOndlQJWk60=
 github.com/opentracing-contrib/go-observer v0.0.0-20170622124052-a52f23424492/go.mod h1:Ngi6UdF0k5OKD5t5wlmGhe/EDKPoUM3BXZSSfIuJbis=
 github.com/opentracing/basictracer-go v1.0.0/go.mod h1:QfBfYuafItcjQuMwinw9GhYKwFXS9KnPs5lxoYwgW74=
 github.com/opentracing/opentracing-go v1.0.2/go.mod h1:UkNAQd3GIcIGf0SeVgPpRdFStlNbqXla1AfSYxPUl2o=
